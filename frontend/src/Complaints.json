@@ -1,0 +1,22 @@
+[
+    {
+        "sl_no": 4,
+        "pnr": "852-6347548",
+        "customer_complaint": "I asked for platform ticket and he is showing attitude back to me",
+        "category": "Staff",
+        "sub_category": "Behaviour",
+        "image": "https://static.toiimg.com/thumb/msid-51360881,imgsize-13439,width-400,resizemode-4/51360881.jpg",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "sl_no": 5,
+        "pnr": "851-5887498",
+        "customer_complaint": "I am not able to sit because of cockroach",
+        "category": "Coach-Cleanliness",
+        "sub_category": "Cockroach/Rodent",
+        "image": "https://curlytales.com/wp-content/uploads/2023/12/reddit-user.jpg",
+        "priority": "Medium",
+        "status": "Pending"
+    }
+]
